@@ -39,7 +39,6 @@ Git | GitHub | VS Code
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushan950&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan950&layout=compact)
 
 ---
 
