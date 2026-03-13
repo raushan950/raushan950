@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Raushan Kumar
 
-<!--
-**raushan950/raushan950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Full Stack Developer  
+🚀 Passionate about building impactful web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+🔗raushan950-portfolio.vercel.app
+
+## 🔗 Connect With Me
+
+LinkedIn: www.linkedin.com/in/raushan-kumar-dev 
+GitHub: https://github.com/raushan950
+
+---
+
+## 🛠️ Tech Stack
+
+Languages:
+C++ | JavaScript | Python
+
+Frontend:
+HTML | CSS | React
+
+Backend:
+Node.js | Express
+
+Database:
+MySQL | MongoDB
+
+Tools:
+Git | GitHub | VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushan950&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan950&layout=compact)
+
+---
+
+## 🚀 Current Focus
+
+- Practicing **Data Structures & Algorithms**
+- Building **Full Stack Projects**
+- Preparing for **Software Developer Placements**
+
+---
+
+⭐ Always learning and improving every day.
